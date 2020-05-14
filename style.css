@@ -1,0 +1,20 @@
+*(margin: 0;padding: 0;)
+.banner{
+    background: ;
+    width: 100%;
+    background-size: cover;
+}
+.top-bar{
+    background-color: #000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.logo{
+    color: #fff;
+    -webkit-box-flex: 1;
+    -
+}
